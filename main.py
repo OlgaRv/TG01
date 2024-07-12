@@ -42,4 +42,4 @@ async def main(dp):
     await dp.start_polling(bot)
 
 if __name__ == '__main__':
-    asyncio.run(main(dp))
+    asyncio.run(main(dp))сч
